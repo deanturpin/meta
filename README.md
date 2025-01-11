@@ -2,9 +2,9 @@
 
 With the three Musk-ateers in Trump's pocket, ask yourself: what's the worst that can happen?
 
-What's the worst that can happen ?
-
 It kinda feels like it could be the start of something big.
+
+But if you minimise your digital exposure and all this blows over, what will you have missed? A lot of cat videos? You will definitely have learnt a lot about how your data are (mis)used.
 
 ## The tech giants
 
@@ -17,8 +17,9 @@ It kinda feels like it could be the start of something big.
 
 ## Search engines
 
-- DuckDuckGo
+Google was once the friend of the developers but not it's become this vast nebulous entity. And it purvades everything, tracking your every move and profiting from it. But it has crept so slowly that we've barely noticed.
 
+- DuckDuckGo
 
 ## Common reasons for not worrying about privacy
 
