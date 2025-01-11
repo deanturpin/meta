@@ -33,6 +33,11 @@ Meta products and what you might use instead.
 | Portal             | Jitsi                   |
 | Facebook Ads       | EthicalAds              |
 
+
+## Remove the phone apps
+
+You are not completely free from any data gathering but you can at least reduce your exposure -- and quality of data captured -- and limiting the use of services to your laptop where possible.
+
 ## VPN
 
 - ExpressVPN
