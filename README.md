@@ -1,16 +1,16 @@
 # How to leave Meta
 
-> He who does not move, does not notice his chains. -- Rosa Luxemburg
+"He who does not move, does not notice his chains" -- Rosa Luxemburg
 
 ## Common reasons for not worrying about privacy
 
 > I have nothing to hide
 
-[Edward Snowden](https://www.youtube.com/watch?v=pcSlowAhvUk) explains why this is a bad argument. You don't while you agree with the person with the stick.
+[Edward Snowden](https://www.youtube.com/watch?v=pcSlowAhvUk) explains why this is a bad argument: you have nothing to hide whilst you agree with the person with the stick.
 
 > I'm not doing anything wrong
 
-[The Guardian](https://www.theguardian.com/world/2013/sep/05/nsa-gchq-encryption-codes-security) explains why this is a bad argument. You don't make the rules.
+Rules change and you don't make them.
 
 ## Meta's changing policies
 
@@ -23,7 +23,7 @@
 
 Meta products and what you might use instead.
 
-| Meta Product       | Alternative      |
+| Meta Product       | Alternative |
 |--------------------|-------------------------|
 | Facebook           | Mastodon (but no private groups) |
 | Instagram          | Pixelfed                |
@@ -49,3 +49,7 @@ Meta products and what you might use instead.
 ## Freedom of speech
 
 - Rumble
+
+## References
+
+- [How US and UK spy agencies defeat internet privacy and security](https://www.theguardian.com/world/2013/sep/05/nsa-gchq-encryption-codes-security)
