@@ -16,8 +16,7 @@ Rules change and you have no input.
 
 > We do allow allegations of mental illness or abnormality when based on gender or sexual orientation, given political and religious discourse about transgenderism and homosexuality and common non-serious usage of words such as "weird".
 
-- https://transparency.meta.com/en-gb/policies/community-standards/hateful-conduct/
-
+See Meta's [hateful conduct policy](https://transparency.meta.com/en-gb/policies/community-standards/hateful-conduct/).
 
 ### Meta
 
