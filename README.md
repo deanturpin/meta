@@ -18,11 +18,11 @@ Rules change and you have no input.
 
 See Meta's [hateful conduct policy](https://transparency.meta.com/en-gb/policies/community-standards/hateful-conduct/).
 
-### Meta
+### Meta products
 
 Meta products and what you might use instead.
 
-| Meta Product       | Alternative |
+| Meta | Alternative |
 |--------------------|-------------------------|
 | Facebook           | Mastodon (but no private groups) |
 | Instagram          | Pixelfed                |
