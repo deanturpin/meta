@@ -1,6 +1,24 @@
 # How to leave Meta
 
-"He who does not move, does not notice his chains" -- Rosa Luxemburg
+With the three Musk-ateers in Trump's pocket, ask yourself: what's the worst that can happen?
+
+What's the worst that can happen ?
+
+It kinda feels like it could be the start of something big.
+
+## The tech giants
+
+- Google
+- Apple
+- Amazon
+- Meta
+- Microsoft
+- Tesla
+
+## Search engines
+
+- DuckDuckGo
+
 
 ## Common reasons for not worrying about privacy
 
@@ -11,6 +29,12 @@
 > I'm not doing anything wrong
 
 Rules change and you have no input.
+
+Addionally, you are assuming the data gathers will maintain the integrity of your data once it has been picked apart, repackaged and resold.
+
+## Using Meta plaforms to promote your business
+
+This is tricky as it's difficult justify reducing your reach; especially if you're not fully booked.
 
 ## Meta's changing policies
 
@@ -34,9 +58,18 @@ Meta products and what you might use instead.
 | Facebook Ads       | EthicalAds              |
 
 
+## Facebook
+
+- First, [download your data](https://accountscenter.facebook.com/info_and_permissions): make sure to select full date range and high quality media
+
 ## Remove the phone apps
 
 You are not completely free from any data gathering but you can at least reduce your exposure -- and quality of data captured -- and limiting the use of services to your laptop where possible.
+
+## Privacy quotes
+
+"He who does not move, does not notice his chains" -- Rosa Luxemburg
+
 
 ## VPN
 
