@@ -10,7 +10,7 @@
 
 > I'm not doing anything wrong
 
-Rules change and you don't make them.
+Rules change and you have no input.
 
 ## Meta's changing policies
 
