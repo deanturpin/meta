@@ -1,5 +1,7 @@
 # How to leave Meta
 
+## Why now?
+
 With the three Musk-ateers in Trump's pocket, ask yourself: what's the worst that can happen?
 
 It kinda feels like it could be the start of something big.
@@ -58,10 +60,12 @@ Meta products and what you might use instead.
 | Portal             | Jitsi                   |
 | Facebook Ads       | EthicalAds              |
 
+## Download your data
 
-## Facebook
+The Facebook download took about 6 hours to prepare and was approximately 5GB, so make sure you're not leaving it to the last minute.
 
-- First, [download your data](https://accountscenter.facebook.com/info_and_permissions): make sure to select full date range and high quality media
+- [Facebook](https://accountscenter.facebook.com/info_and_permissions): make sure to select full date range and high quality media
+- [Instagram](https://privacycenter.instagram.com/guide/dyi/)
 
 ## Remove the phone apps
 
@@ -70,7 +74,6 @@ You are not completely free from any data gathering but you can at least reduce 
 ## Privacy quotes
 
 "He who does not move, does not notice his chains" -- Rosa Luxemburg
-
 
 ## VPN
 
