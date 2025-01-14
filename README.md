@@ -48,13 +48,15 @@ Meta products and what you might use instead.
 | Meta | Alternative |
 |--------------------|-------------------------|
 | Facebook           | Mastodon (but no private groups), Bluesky |
-| Instagram          | Pixelfed                |
+| Instagram          |                 |
 | WhatsApp           | Signal                  |
 | Messenger          | Signal                  |
-| Oculus             | Valve Index             |
-| Workplace          | Mattermost              |
-| Portal             | Jitsi                   |
-| Facebook Ads       | EthicalAds              |
+
+## WhatsApp
+
+Signal won't replace WhatsApp (just yet) so you must concede that you will be running two messenger apps: WhatsApp for the people who are complacent about privacy, Signal for the rest.
+
+You can also download [Signal for your desktop](https://signal.org/download/).
 
 ## Download your data
 
