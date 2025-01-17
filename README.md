@@ -58,14 +58,19 @@ Signal won't replace WhatsApp (just yet) so you must concede that you will be ru
 
 You can also download [Signal for your desktop](https://signal.org/download/).
 
-## Download your data
+## Disable/delete your accounts
 
-It's tempting to just delete your accounts in a fit of pique, but there is an argument to keeping your username to avoid impersonation.
+It's tempting to just delete your accounts in a fit of pique, but there is an argument to keeping your username to avoid impersonation. The Facebook download took about 6 hours to prepare and was approximately 5GB for 10+ years of posts, so make sure you're not leaving it to the last minute. Additionally, you might find you use your Facebook login for other services -- like Spotify -- so hopefully you will sort that before you disable! (But obviously not the end of the world if you have to repeat the process.)
 
-The Facebook download took about 6 hours to prepare and was approximately 5GB for 10+ years of posts, so make sure you're not leaving it to the last minute.
+### Facebook
 
-- [Facebook](https://accountscenter.facebook.com/info_and_permissions): make sure to select full date range and high quality media; also [logout of all devices](https://accountscenter.facebook.com/password_and_security/login_activity) so you don't accidentally check it on your phone browser
-- [Instagram](https://privacycenter.instagram.com/guide/dyi/)
+- [Disable your account](https://accountscenter.facebook.com/personal_info/account_ownership_and_control/deletion_and_deactivation/?is_from_dialog=true)
+- [Download your data](https://accountscenter.facebook.com/info_and_permissions): make sure to select full date range and high quality media
+- [Logout of all devices](https://accountscenter.facebook.com/password_and_security/login_activity) so you don't accidentally check it on your phone browser
+
+### Instagram
+
+- [Download your data](https://privacycenter.instagram.com/guide/dyi/)
 
 ## Remove the phone apps
 
