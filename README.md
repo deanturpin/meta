@@ -48,7 +48,7 @@ Meta products and what you might use instead.
 | Meta | Alternative |
 |--------------------|-------------------------|
 | Facebook           | Mastodon (but no private groups), Bluesky |
-| Instagram          |                 |
+| Instagram          |  [Pixelfed](https://pixelfed.org/)               |
 | WhatsApp           | Signal                  |
 | Messenger          | Signal                  |
 
