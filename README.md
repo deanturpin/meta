@@ -84,7 +84,7 @@ You can at least make the [DuckDuckGo](https://duckduckgo.com/) search engine yo
 
 ## VPN
 
-I use ExpressVPN on my phone and you don't really notice and drop in (network) performance if you pick a geographically close server. But you will find you suddenly start getting Norwegian ads, which is quite fun anyway. Of course you cannot implicitly trust the VPN provider either, but it is another layer to the obscurity onion. Which leads us nicely onto the Tor browser, which runs on the Tor Onion network.
+I use ExpressVPN on my phone and you don't really notice any reduction in (network) performance if you pick a geographically close server. But you will find you suddenly start getting Norwegian ads, which is quite fun anyway. Of course you cannot implicitly trust the VPN provider either, but it is another layer to the obscurity onion. Which leads us nicely onto the Tor browser, which runs on the Tor Onion network.
 
 ## DNS servers
 
