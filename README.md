@@ -84,16 +84,16 @@ You can at least make the [DuckDuckGo](https://duckduckgo.com/) search engine yo
 
 I use ExpressVPN on my phone and you don't really notice any reduction in (network) performance if you pick a geographically close server. But you will find you suddenly start getting Norwegian ads, which is quite fun anyway. Of course you cannot implicitly trust the VPN provider either, but it is another layer to the obscurity onion. Which leads us nicely onto the Tor browser, which runs on the Tor Onion network.
 
+## Privacy in literature
+
+- "1984" George Orwell: a society in which people can be monitored at all times, is a society that breeds conformity and obedience and submission
+- "He who does not move, does not notice his chains" -- Rosa Luxemburg
+
 ## DNS servers
 
 This is getting into the weeds a bit, but... behind the scenes when you type a URL, there is a lookup of that name to an IP address which is used to route your request to the web server where your website really lives. If you haven't fiddled with it this is probably Google: `8.8.8.8`. Therefore, despite your data being encrypted, all top level websites that you visit are tracked by Google, even if you didn't search for it.
 
 An alternative is Cloudflare: `1.1.1.1`.
-
-## Privacy in literature
-
-- "1984" George Orwell: a society in which people can be monitored at all times, is a society that breeds conformity and obedience and submission
-- "He who does not move, does not notice his chains" -- Rosa Luxemburg
 
 <!--
 ## Freedom of speech/expression
