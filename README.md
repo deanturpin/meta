@@ -88,6 +88,7 @@ I use ExpressVPN on my phone and you don't really notice any reduction in (netwo
 
 - "1984" George Orwell: a society in which people can be monitored at all times, is a society that breeds conformity and obedience and submission
 - "He who does not move, does not notice his chains" -- Rosa Luxemburg
+- "The only thing necessary for evil to triumph in the world is that good men do nothing" -- [Edmund Burke](https://en.wikipedia.org/wiki/Edmund_Burke)
 
 ## DNS servers
 
