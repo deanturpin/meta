@@ -58,7 +58,7 @@ Signal won't replace WhatsApp (just yet) so you must concede that you will be ru
 
 ## Disable/delete your accounts
 
-It's tempting to just delete your accounts in a fit of pique, but there is an argument to keeping your username to avoid impersonation. The Facebook download took about 6 hours to prepare and was approximately 5GB for 10+ years of posts, so make sure you're not leaving it to the last minute. Additionally, you might find you use your Facebook login for other services -- like Spotify -- so hopefully you will sort that before you disable! (But obviously not the end of the world if you have to repeat the process.)
+It's tempting to just delete your accounts in a fit of pique, but there is an argument to keeping your username to avoid impersonation. The Facebook download took about 6 hours to prepare and was approximately 5GB for 10+ years of posts, so make sure you're not leaving it to the last minute. Additionally, you might find you use your Facebook login for other services -- like Spotify -- so hopefully you will sort that before you disable. (But obviously not the end of the world if you have to repeat the process.)
 
 ### Facebook
 
