@@ -49,7 +49,7 @@ Meta products and what you might use instead.
 |--------------------|-------------------------|
 | Facebook           | Mastodon (but no private groups), Bluesky |
 | Instagram          |  [Pixelfed](https://pixelfed.org/)               |
-| WhatsApp           | Signal                  |
+| WhatsApp           | [Signal](https://signal.org/download/) (no web client, but a decent desktop version) |
 | Messenger          | Signal                  |
 
 ## WhatsApp
