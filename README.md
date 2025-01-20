@@ -29,11 +29,11 @@ Addionally, you are assuming the data gatherers will maintain its integrity once
 
 > I'm not doing anything _really_ wrong like dealing drugs or something
 
-Whilst it is probably true you are not on the FBI's most wanted list, you are still being tracked and profiled. Mortgage lenders and employers might be super interested to know you are hitting the casino every evening, or are flagged as having some health issue. The nothing-to-hide crew ought to consider that there is no discussion as to _why_ you have been declined a loan.
+Whilst it is probably true you are not on the FBI's most wanted list, you are still being tracked and profiled. Mortgage lenders and employers might be super interested to know you are hitting the casino every evening, or you're flagged as having some health issue. The nothing-to-hide crew ought to consider that there is no discussion as to _why_ you have been declined a loan.
 
 ## Using Meta plaforms to promote your business
 
-This is tricky as it's difficult to justify reducing your reach; especially if you're not overwhelmed with work.
+This is tricky as it's difficult to justify reducing your reach, especially if you're not currently overwhelmed with work.
 
 ## Meta's changing policies
 
@@ -74,7 +74,9 @@ The Facebook download took about 6 hours to prepare and the zip file was approxi
 
 ## Remove the phone apps
 
-You are not completely free from any data gathering but you can at least reduce your exposure -- and quality of data captured -- by limiting the use of services to your laptop where possible. Do you really need to post all your photos just after they're taken? Are you reporting breaking news/current affairs, or can it wait until you get home to edit them properly?
+You can limit the use of non-essential services to your laptop: you are not completely free from any data gathering, of course, but you can at least reduce your exposure and therefore the quality of the data captured.
+
+Are you reporting breaking news or current affairs; or can it wait until you get home to edit your photos properly before posting?
 
 ## Search engines
 
@@ -84,7 +86,7 @@ You can at least make the [DuckDuckGo](https://duckduckgo.com/) search engine yo
 
 ## VPN
 
-I use ExpressVPN on my phone and you don't really notice any reduction in (network) performance if you pick a geographically close server. But you will find you suddenly start getting Norwegian ads, which is quite fun anyway. Of course you cannot implicitly trust the VPN provider either, but it is another layer to the obscurity onion. Which leads us nicely onto the Tor browser, which runs on the Tor Onion network: maximum privacy at the expense of usabilty.
+I use ExpressVPN on my phone and you don't really notice any reduction in (network) performance if you pick a geographically close server. But you will find you suddenly start getting Norwegian ads, which is quite fun anyway. Of course you cannot implicitly trust the VPN provider either, but it is another layer to the obscurity onion. Which leads us nicely on to the Tor browser -- a dedicated web browser focussed on privacy -- which takes the idea of privacy layers to the extreme: maximum security at the expense of usabilty.
 
 ## Privacy in literature
 
