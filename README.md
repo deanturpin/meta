@@ -74,7 +74,7 @@ The Facebook download took about 6 hours to prepare and the zip file was approxi
 
 ## Remove the phone apps
 
-You are not completely free from any data gathering but you can at least reduce your exposure -- and quality of data captured -- by limiting the use of services to your laptop where possible. Do you really need to post all your photos just after they're taken? Are you reporting breaking news/current affairs, or can it wait until you get home and edit them nicely?
+You are not completely free from any data gathering but you can at least reduce your exposure -- and quality of data captured -- by limiting the use of services to your laptop where possible. Do you really need to post all your photos just after they're taken? Are you reporting breaking news/current affairs, or can it wait until you get home to edit them properly?
 
 ## Search engines
 
@@ -84,7 +84,7 @@ You can at least make the [DuckDuckGo](https://duckduckgo.com/) search engine yo
 
 ## VPN
 
-I use ExpressVPN on my phone and you don't really notice any reduction in (network) performance if you pick a geographically close server. But you will find you suddenly start getting Norwegian ads, which is quite fun anyway. Of course you cannot implicitly trust the VPN provider either, but it is another layer to the obscurity onion. Which leads us nicely onto the Tor browser, which runs on the Tor Onion network.
+I use ExpressVPN on my phone and you don't really notice any reduction in (network) performance if you pick a geographically close server. But you will find you suddenly start getting Norwegian ads, which is quite fun anyway. Of course you cannot implicitly trust the VPN provider either, but it is another layer to the obscurity onion. Which leads us nicely onto the Tor browser, which runs on the Tor Onion network: maximum privacy at the expense of usabilty.
 
 ## Privacy in literature
 
