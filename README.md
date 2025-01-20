@@ -4,7 +4,7 @@ With the three Musk-ateers in Trump's pocket, ask yourself: "What's the worst th
 
 ## Why now?
 
-It kinda feels like it could be the start of something big. It absolutely doesn't seem a stretch that Trump could demand access to all our messages to protect us from the bad men. But if you minimise your digital exposure and all this blows over, what will you have missed? A lot of cat videos? You will definitely have learnt a lot about how your data are used and abused.
+It kinda feels like it could be the start of something big. It absolutely doesn't seem a stretch that Trump could demand access to all our messages to protect us from the bad men. But if you minimise your digital exposure and all this blows over, what will you have missed? A lot of cat videos? You will definitely have learnt a lot about how your data is used and abused.
 
 ## The tech giants
 
@@ -33,7 +33,7 @@ Whilst it is probably true you are not on the FBI's most wanted list, you are st
 
 ## Using Meta plaforms to promote your business
 
-This is tricky as it's difficult justify reducing your reach; especially if you're not overwhelmed with work.
+This is tricky as it's difficult to justify reducing your reach; especially if you're not overwhelmed with work.
 
 ## Meta's changing policies
 
@@ -58,7 +58,9 @@ Signal won't replace WhatsApp (just yet) so you must concede that you will be ru
 
 ## Disable/delete your accounts
 
-It's tempting to just delete your accounts in a fit of pique, but there is an argument to keeping your username to avoid impersonation. The Facebook download took about 6 hours to prepare and was approximately 5GB for 10+ years of posts, so make sure you're not leaving it to the last minute. Additionally, you might find you use your Facebook login for other services -- like Spotify -- so hopefully you will sort that before you disable. (But obviously not the end of the world if you have to repeat the process.)
+It's tempting to just delete your accounts in a fit of pique, but there is an argument to keeping your username to avoid impersonation. Download your data as a first step, and if you decide to delete your account at least you have all your photos. (They will be inaccessible after deletion but will they really be removed by Meta? Maybe not, we cannot know.)
+
+The Facebook download took about 6 hours to prepare and was approximately 5GB for 10+ years of posts, so make sure you're not leaving it to the last minute. Additionally, you might find you use your Facebook login for other services -- like Spotify -- so hopefully you will sort that before you disable. (But obviously not the end of the world if you have to repeat the process.)
 
 ### Facebook
 
@@ -92,7 +94,9 @@ I use ExpressVPN on my phone and you don't really notice any reduction in (netwo
 
 ## DNS servers
 
-This is getting into the weeds a bit, but... behind the scenes when you type a URL, there is a lookup of that name to an IP address which is used to route your request to the web server where your website really lives. If you haven't fiddled with it this is probably Google: `8.8.8.8`. Therefore, despite your data being encrypted, all top level websites that you visit are tracked by Google, even if you didn't search for it.
+*Note: this really is getting into the weeds, only worry about this if you've done everything else.*
+
+Behind the scenes when you type a URL, there is a lookup of that name to an IP address which is used to route your request to the server where your website really lives. If you haven't fiddled with it this is probably Google: `8.8.8.8`. Therefore, despite your data being encrypted, all top level websites that you visit are tracked by Google, even if you didn't search for it.
 
 An alternative is Cloudflare: `1.1.1.1`.
 
