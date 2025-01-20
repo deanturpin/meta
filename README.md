@@ -107,12 +107,6 @@ An alternative is Cloudflare: `1.1.1.1`.
 
 - [Gary's Economics take on Elon Musk](https://www.youtube.com/watch?v=wPoXOwiEfrQ)
 
-<!--
-## Freedom of speech/expression
-
-- Rumble
--->
-
 ## References
 
 - [How US and UK spy agencies defeat internet privacy and security](https://www.theguardian.com/world/2013/sep/05/nsa-gchq-encryption-codes-security)
