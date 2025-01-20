@@ -48,10 +48,10 @@ Meta products and what you might use instead.
 | Meta | Alternative |
 |--------------------|-------------------------|
 | Facebook           | Mastodon (but no private groups), Bluesky |
-| Instagram          | [Pixelfed](https://pixelfed.org/) |
+| Instagram          | [Pixelfed](https://pixelfed.social/) |
 | WhatsApp           | [Signal](https://signal.org/download/) (no web client, but a decent desktop version) |
 | Messenger          | Signal |
-| TikTok             | |
+| TikTok             | RedNote |
 
 ## WhatsApp
 
