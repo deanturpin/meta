@@ -103,6 +103,10 @@ Behind the scenes when you type a URL, there is a lookup of that name to an IP a
 
 An alternative is Cloudflare: `1.1.1.1`.
 
+## Watch
+
+- [Gary's Economics take on Elon Musk](https://www.youtube.com/watch?v=wPoXOwiEfrQ)
+
 <!--
 ## Freedom of speech/expression
 
