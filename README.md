@@ -4,7 +4,7 @@ With the three Musk-ateers in Trump's pocket, ask yourself: "What's the worst th
 
 ## Why now?
 
-It kinda feels like it could be the start of something big. It absolutely doesn't seem a stretch that Trump could demand access to all our messages to protect us from the bad men (in fact he's been threatening [TikTok](https://www.independent.co.uk/news/world/americas/us-politics/trump-save-tiktok-working-again-app-download-b2682563.html) in the lead up to his inauguation). But if you minimise your digital exposure and all this blows over, what will you have missed? A lot of cat videos? You will definitely have learnt a lot about how your data is used and abused.
+It kinda feels like it could be the start of something big. It absolutely doesn't seem a stretch that Trump could demand access to all our messages to protect us from the bad men. (In fact he's been threatening [TikTok](https://www.independent.co.uk/news/world/americas/us-politics/trump-save-tiktok-working-again-app-download-b2682563.html) in the lead up to his inauguation.) But if you minimise your digital exposure and all this blows over, what will you have missed? A lot of cat videos? You will definitely have learnt a lot about how your data is used and abused.
 
 ## The tech giants
 
