@@ -47,8 +47,9 @@ Meta products and what you might use instead.
 
 | Meta | Alternative |
 |--------------------|-------------------------|
-| Facebook           | Mastodon (but no private groups), Bluesky |
+| Facebook           | [Mastodon](https://mastodon.social/explore) (but no private groups), Bluesky |
 | Instagram          | [Pixelfed](https://pixelfed.social/) |
+| Xing               | Mastodon |
 | WhatsApp           | [Signal](https://signal.org/download/) (no web client, but a decent desktop version) |
 | Messenger          | Signal |
 | TikTok             | RedNote |
