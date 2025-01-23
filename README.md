@@ -45,7 +45,7 @@ See Meta's [hateful conduct policy](https://transparency.meta.com/en-gb/policies
 
 Meta products and what you might use instead.
 
-| Meta | Alternative |
+| Evil product | Alternative |
 |--------------------|-------------------------|
 | Facebook           | [Mastodon](https://mastodon.social/explore) (but no private groups), Bluesky |
 | Instagram          | [Pixelfed](https://pixelfed.social/) |
@@ -53,6 +53,10 @@ Meta products and what you might use instead.
 | WhatsApp           | [Signal](https://signal.org/download/) (no web client, but a decent desktop version) |
 | Messenger          | Signal |
 | TikTok             | RedNote |
+| Uber               | Brighton Radiocabs |
+| Spotify            | Tidal, Bandcamp |
+| Logic Pro          | |
+| Photoshop          | |
 
 ## WhatsApp
 
@@ -95,6 +99,10 @@ I use ExpressVPN on my phone and you don't really notice any reduction in (netwo
 - "1984" George Orwell: a society in which people can be monitored at all times, is a society that breeds conformity and obedience and submission
 - "He who does not move, does not notice his chains" -- Rosa Luxemburg
 - "The only thing necessary for evil to triumph in the world is that good men do nothing" -- [Edmund Burke](https://en.wikipedia.org/wiki/Edmund_Burke)
+
+## Presidential donations
+
+> Google, Meta, Uber, OpenAI and Amazon all donated $1 million to proceedings — while Variety reports that CEO of Apple Tim Cook also donated $1 million.
 
 ## DNS servers
 
