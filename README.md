@@ -41,11 +41,11 @@ This is tricky as it's difficult to justify reducing your reach, especially if y
 
 See Meta's [hateful conduct policy](https://transparency.meta.com/en-gb/policies/community-standards/hateful-conduct/).
 
-## Meta products
+## Switching services
 
-Meta products and what you might use instead.
+Common products/sesrvices and what you might use instead.
 
-| Evil product | Alternative |
+| Mainstream product | Alternative |
 |--------------------|-------------------------|
 | Facebook           | [Mastodon](https://mastodon.social/explore) (but no private groups), Bluesky |
 | Instagram          | [Pixelfed](https://pixelfed.social/) |
@@ -56,7 +56,8 @@ Meta products and what you might use instead.
 | Uber               | Brighton Radiocabs |
 | Spotify            | Tidal, Bandcamp |
 | Logic Pro          | |
-| Photoshop          | |
+| Adobe Creative Suite (Photoshop etc.) | |
+| OpenAI             | |
 
 ## WhatsApp
 
