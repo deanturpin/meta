@@ -49,13 +49,15 @@ Common products/sesrvices and what you might use instead.
 |--------------------|-------------------------|
 | Facebook           | [Mastodon](https://mastodon.social/explore) (but no private groups), Bluesky |
 | Instagram          | [Pixelfed](https://pixelfed.social/) |
-| Xing               | Mastodon |
-| WhatsApp           | [Signal](https://signal.org/download/) (no web client, but a decent desktop version) |
+| Twitter            | Mastodon |
+| WhatsApp           | [Signal](https://signal.org/download/) (no web client, decent desktop version) |
 | Messenger          | Signal |
 | TikTok             | RedNote |
+| Gmail              | [ProtonMail](https://protonmail.com/), or host your own |
 | Uber               | Brighton Radiocabs |
 | Spotify            | Tidal, Bandcamp |
 | Logic Pro          | |
+| AWS, GCP (web hosting) | |
 | Adobe Creative Suite (Photoshop etc.) | |
 | OpenAI             | |
 
