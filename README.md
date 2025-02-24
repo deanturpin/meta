@@ -122,3 +122,4 @@ An alternative is Cloudflare: `1.1.1.1`.
 ## References
 
 - [How US and UK spy agencies defeat internet privacy and security](https://www.theguardian.com/world/2013/sep/05/nsa-gchq-encryption-codes-security)
+- [Remove safetycore on Android](https://imgur.com/gallery/if-you-find-android-system-safetycore-on-android-device-remove-right-away-qmFIc6v)
